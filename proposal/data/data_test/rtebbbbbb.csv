@@ -1,0 +1,3 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1709522788467,165,simply,200,OK,Thread Group 2-1,text,true,,396250,124,1,1,https://www.simplilearn.com,104,0,91
+1709522788632,47,simply_resource,200,OK,Thread Group 2-1,text,true,,233733,133,1,1,https://www.simplilearn.com/resources,13,0,0

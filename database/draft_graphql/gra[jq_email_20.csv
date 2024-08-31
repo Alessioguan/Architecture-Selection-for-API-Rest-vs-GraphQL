@@ -1,0 +1,12 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+GraphQL_fakeemail_country_1,50,300,289,460,30.24,70.000%,39.15427,35.30,12.92,923.3
+GraphQL_fakeemail_country_2,50,96,94,103,1.81,86.000%,46.38219,17.32,16.49,382.4
+GraphQL_fakeemail_country_3,50,102,94,406,43.43,90.000%,46.42526,39.19,25.66,864.5
+GraphQL_fakeemail_country_4,50,102,94,414,44.58,100.000%,46.68534,17.87,29.13,392.0
+GraphQL_fakeemail_country_5,50,95,94,99,1.36,100.000%,46.68534,17.87,32.37,392.0
+GraphQL_fakeemail_country_6,50,96,94,102,1.84,96.000%,44.20866,16.73,22.49,387.4
+GraphQL_fakeemail_country_7,50,96,93,102,1.88,100.000%,44.16961,16.91,22.39,392.0
+GraphQL_fakeemail_country_8,50,29,22,83,9.70,0.000%,47.03669,42.62,11.85,927.9
+GraphQL_fakeemail_country_9,50,96,94,109,3.12,96.000%,44.09171,16.70,24.50,387.9
+GraphQL_fakeemail_country_10,50,96,94,107,2.65,92.000%,44.09171,16.17,18.73,375.6
+TOTAL,500,111,22,460,69.90,83.000%,234.74178,124.37,112.76,542.5
