@@ -42,5 +42,7 @@ The choice between REST and GraphQL should depend on the specific requirements o
 
 ## How to Use
 
-To explore the findings and data, clone this repository and review the provided datasets, code, and documentation. The project includes both the data collected for analysis and the implementation of the comparative CRUD applications in REST and GraphQL.
+To explore the findings and data, clone this repository and review the provided datasets, code, and documentation.
+Please read the Architecture_Selection_for_API_Rest_vs_GraphQL.pdf for the project details.
+The project includes both the data collected for analysis and the implementation of the comparative CRUD applications in REST and GraphQL.
 
